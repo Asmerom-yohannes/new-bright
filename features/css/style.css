@@ -211,12 +211,12 @@ pre {
 /* Features */
 .features-head img,
 .docs-head img {
-  width: 100px;
+  width: 200px;
   justify-self: flex-end;
 }
 
 .features-sub-head img {
-  width: 400px;
+  width: 300px;
   justify-self: flex-end;
 }
 
